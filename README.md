@@ -4,9 +4,9 @@ A full-stack Customer Support CRM System built using MERN Stack (MongoDB, Expres
 
 ## Live Demo
 
-Frontend: https://your-frontend-url.vercel.app
+Frontend: https://support-crm-delta.vercel.app/
 
-Backend API: https://your-backend-url.onrender.com
+Backend API: "https://support-crm-gz51.onrender.com/"
 
 ---
 
@@ -244,4 +244,4 @@ This project helped me improve my understanding of:
 
 Rohit Yadav
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Rohit777-7/SUPPORT_crm
